@@ -57,9 +57,13 @@ GETTING STARTED
 		> Executar 
 
 ****************************************************************************************************************************************
-****************************************************************************************************************************************ESTRUTURA
+****************************************************************************************************************************************
+ESTRUTURA
 
-	A solução está dividada em camadas estruturadas como projectos , separada pela: API ("API"), Lógica ("BusinessLogicLayer"), Acesso a Dados esta ultima está subdividida em mais duas, uma que preparae requisita os dados ("DataAccessLayer"), e uma outra que realiza a comuniação com os dados ("DataAccessObject"). Além destas camadas existe ainda projectos complementares, são eles o projecto que mantem os modelos ("Models") a serem usados , projecto de testes da lógica ("BusinessLogicLayerUnitTest")
+	A solução está dividida em camadas estruturadas como projectos , separada pela: API ("API"), Lógica ("BusinessLogicLayer"),
+	Acesso a Dados esta ultima está subdividida em mais duas, uma que preparae requisita os dados ("DataAccessLayer"), e uma outra
+	que realiza a comuniação com os dados ("DataAccessObject"). Além destas camadas existe ainda projectos complementares, são eles
+	o projecto que mantem os modelos ("Models") a serem usados , projecto de testes da lógica ("BusinessLogicLayerUnitTest")
 
 ****************************************************************************************************************************************
 ****************************************************************************************************************************************
@@ -135,7 +139,8 @@ ALGORITMO
 
 			foreach conexao em conexoes{
 				if ( No de fim de Conexao não foi visitado 
-					 && a distancia para o no fim da conexao + distancia ate ao no anterior > distancia ate ao no anterior
+					 && a distancia para o no fim da conexao + distancia ate ao no anterior > distancia ate ao 
+					 no anterior
 					 )
 					 	  adiciona a distancia ate nó 
 					 	  adiciona conexao que o levou nó
