@@ -1,0 +1,14 @@
+C:\Users\JAlmeida71\source\repos\FarFetch\Routes\bin\Debug\netcoreapp2.1\RoutesAPI.deps.json
+C:\Users\JAlmeida71\source\repos\FarFetch\Routes\bin\Debug\netcoreapp2.1\RoutesAPI.runtimeconfig.json
+C:\Users\JAlmeida71\source\repos\FarFetch\Routes\bin\Debug\netcoreapp2.1\RoutesAPI.runtimeconfig.dev.json
+C:\Users\JAlmeida71\source\repos\FarFetch\Routes\bin\Debug\netcoreapp2.1\RoutesAPI.dll
+C:\Users\JAlmeida71\source\repos\FarFetch\Routes\bin\Debug\netcoreapp2.1\RoutesAPI.pdb
+C:\Users\JAlmeida71\source\repos\FarFetch\Routes\obj\Debug\netcoreapp2.1\RoutesAPI.csprojAssemblyReference.cache
+C:\Users\JAlmeida71\source\repos\FarFetch\Routes\obj\Debug\netcoreapp2.1\RoutesAPI.csproj.CoreCompileInputs.cache
+C:\Users\JAlmeida71\source\repos\FarFetch\Routes\obj\Debug\netcoreapp2.1\RoutesAPI.RazorAssemblyInfo.cache
+C:\Users\JAlmeida71\source\repos\FarFetch\Routes\obj\Debug\netcoreapp2.1\RoutesAPI.RazorAssemblyInfo.cs
+C:\Users\JAlmeida71\source\repos\FarFetch\Routes\obj\Debug\netcoreapp2.1\RoutesAPI.AssemblyInfoInputs.cache
+C:\Users\JAlmeida71\source\repos\FarFetch\Routes\obj\Debug\netcoreapp2.1\RoutesAPI.AssemblyInfo.cs
+C:\Users\JAlmeida71\source\repos\FarFetch\Routes\obj\Debug\netcoreapp2.1\RoutesAPI.RazorTargetAssemblyInfo.cache
+C:\Users\JAlmeida71\source\repos\FarFetch\Routes\obj\Debug\netcoreapp2.1\RoutesAPI.dll
+C:\Users\JAlmeida71\source\repos\FarFetch\Routes\obj\Debug\netcoreapp2.1\RoutesAPI.pdb

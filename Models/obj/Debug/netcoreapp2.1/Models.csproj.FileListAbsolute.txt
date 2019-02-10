@@ -1,0 +1,9 @@
+C:\Users\JAlmeida71\source\repos\Farfetch\Models\bin\Debug\netcoreapp2.1\Models.deps.json
+C:\Users\JAlmeida71\source\repos\Farfetch\Models\bin\Debug\netcoreapp2.1\Models.dll
+C:\Users\JAlmeida71\source\repos\Farfetch\Models\bin\Debug\netcoreapp2.1\Models.pdb
+C:\Users\JAlmeida71\source\repos\Farfetch\Models\obj\Debug\netcoreapp2.1\Models.csproj.CoreCompileInputs.cache
+C:\Users\JAlmeida71\source\repos\Farfetch\Models\obj\Debug\netcoreapp2.1\Models.AssemblyInfoInputs.cache
+C:\Users\JAlmeida71\source\repos\Farfetch\Models\obj\Debug\netcoreapp2.1\Models.AssemblyInfo.cs
+C:\Users\JAlmeida71\source\repos\Farfetch\Models\obj\Debug\netcoreapp2.1\Models.dll
+C:\Users\JAlmeida71\source\repos\Farfetch\Models\obj\Debug\netcoreapp2.1\Models.pdb
+C:\Users\JAlmeida71\source\repos\Farfetch\Models\obj\Debug\netcoreapp2.1\Models.csprojAssemblyReference.cache

@@ -1,0 +1,13 @@
+C:\Users\JAlmeida71\source\repos\Farfetch\Routes\bin\Debug\netcoreapp2.1\Routes.deps.json
+C:\Users\JAlmeida71\source\repos\Farfetch\Routes\bin\Debug\netcoreapp2.1\Routes.runtimeconfig.json
+C:\Users\JAlmeida71\source\repos\Farfetch\Routes\bin\Debug\netcoreapp2.1\Routes.runtimeconfig.dev.json
+C:\Users\JAlmeida71\source\repos\Farfetch\Routes\bin\Debug\netcoreapp2.1\Routes.dll
+C:\Users\JAlmeida71\source\repos\Farfetch\Routes\bin\Debug\netcoreapp2.1\Routes.pdb
+C:\Users\JAlmeida71\source\repos\Farfetch\Routes\obj\Debug\netcoreapp2.1\Routes.csproj.CoreCompileInputs.cache
+C:\Users\JAlmeida71\source\repos\Farfetch\Routes\obj\Debug\netcoreapp2.1\Routes.RazorAssemblyInfo.cache
+C:\Users\JAlmeida71\source\repos\Farfetch\Routes\obj\Debug\netcoreapp2.1\Routes.RazorAssemblyInfo.cs
+C:\Users\JAlmeida71\source\repos\Farfetch\Routes\obj\Debug\netcoreapp2.1\Routes.AssemblyInfoInputs.cache
+C:\Users\JAlmeida71\source\repos\Farfetch\Routes\obj\Debug\netcoreapp2.1\Routes.AssemblyInfo.cs
+C:\Users\JAlmeida71\source\repos\Farfetch\Routes\obj\Debug\netcoreapp2.1\Routes.RazorTargetAssemblyInfo.cache
+C:\Users\JAlmeida71\source\repos\Farfetch\Routes\obj\Debug\netcoreapp2.1\Routes.dll
+C:\Users\JAlmeida71\source\repos\Farfetch\Routes\obj\Debug\netcoreapp2.1\Routes.pdb
